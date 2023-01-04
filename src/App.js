@@ -246,7 +246,7 @@ const App = () => {
                 <FormControl variant="filled" fullWidth>
                   <InputLabel
                     id="demo-simple-select-filled-label"
-                    error={errors?.blue?.tokenPrefix}>
+                    error={errors?.red?.tokenPrefix}>
                     Select Prefix
                   </InputLabel>
                   <Select
